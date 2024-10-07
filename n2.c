@@ -8,6 +8,9 @@ main()
 {
    printf("Subtraction");
 }
- mul();
+ mul()
+{
+   printf("multiplication");
+}
  div();
 }
